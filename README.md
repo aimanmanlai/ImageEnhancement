@@ -1,5 +1,4 @@
 # ImageEnhancement
-The image compression. It contains lossless and lossy image compression methods.
 Implement Wallis operator, Anisotropic diffusion, Median filter to enhance the images
 
 Part 1: Wallis operator
